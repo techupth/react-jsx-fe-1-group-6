@@ -12,7 +12,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: fit-content;
+  padding: 25px 0px;
   background-image: linear-gradient(
     to right top,
     #2a2929,
